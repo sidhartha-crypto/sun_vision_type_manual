@@ -1,0 +1,10 @@
+/* manual.css */
+.manual-background {
+       background-color: #f0f0f0; /* Light grey background */
+       padding: 20px; /* Optional: Add padding */
+     }     
+
+.accordion-details {
+       background-color: #e0e0e0; /* Set your desired color here */
+   }   
+

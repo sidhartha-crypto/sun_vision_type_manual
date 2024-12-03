@@ -1,0 +1,65 @@
+#wholecontainer 
+{
+      background-color: #f0f0f0;
+      height:9500px;
+      padding-top: 10px;
+} 
+#companylogo 
+{
+      background-image: url('../public/inovaantage-logo-new.png');
+      height:100px;
+      width:200px;
+      margin-top:10px;
+      margin-left:164px;
+      background-size: 100%;
+      background-repeat: no-repeat;
+}
+#downloadreport
+{
+
+         background-color:white;
+         color:#eb9c4d;
+         border-color: #eb9c4d;
+         padding-top: 10px; 
+         padding-left: 10px;
+         padding-bottom: 10px;
+         padding-right: 10px;
+         width:200px;
+         border-radius: 12px;
+         margin-left:82%;
+
+}
+#downloadreport:hover 
+{
+
+        background-color: #eb9c4d;
+        color: white;
+        cursor: pointer;
+}
+
+
+#csv
+{
+      list-style: none;
+      color: white;
+}
+#xls 
+{
+       list-style: none;
+       color: white;
+}
+
+#csv:hover 
+{
+       cursor: pointer;
+       background-color: white;
+       color: #eb9c4d;
+       width:200px;
+}
+#xls:hover 
+{
+       cursor: pointer;
+       background-color: white;
+       color: #eb9c4d;
+       width:200px;
+}
